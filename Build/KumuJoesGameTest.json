@@ -5,7 +5,7 @@
 "asmCodeUrl": "KumuJoesGameTest.asm.code.unityweb",
 "asmMemoryUrl": "KumuJoesGameTest.asm.memory.unityweb",
 "asmFrameworkUrl": "KumuJoesGameTest.asm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 419430400,
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
