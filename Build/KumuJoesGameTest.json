@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D Game Kit",
+"dataUrl": "KumuJoesGameTest.data.unityweb",
+"asmCodeUrl": "KumuJoesGameTest.asm.code.unityweb",
+"asmMemoryUrl": "KumuJoesGameTest.asm.memory.unityweb",
+"asmFrameworkUrl": "KumuJoesGameTest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
